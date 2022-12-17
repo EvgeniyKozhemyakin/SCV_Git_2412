@@ -44,15 +44,3 @@ git config --global user.email ваша почта@example.com
 ## 9. Проверка разница между текущим проектом и закоммиченным файлом
 
 В терминале выполнить команду `git diff`
-
-запись изменений
-
-
-история коммитов
-
-
-git log
-
-git checkout
-
-git check out master
