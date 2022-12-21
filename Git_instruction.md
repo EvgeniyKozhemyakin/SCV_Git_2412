@@ -60,6 +60,8 @@ git config --global user.email ваша почта@example.com
 
 ## 12. Просмотре истории слияния веток
 
+xnj,sad;lksadf;kjasdfl;kjdfaslkj;faslasksadkasdg;lkgfasd;jlkgasdf;lkjgsdaf;jlk
+
 ## 13. Слияние веток и разрешение конфликтов
 В терминале необходимо выполнить команду `git merge 'имя ветки которую необходимо слить'`; 
 
